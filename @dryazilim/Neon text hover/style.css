@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: #080909cc;
+}
+
+h1 {
+    color: rgb(255, 98, 41);
+    font-size: 100px;
+}
+
+h1:hover {
+    text-shadow: 0 0 5px #fff,
+        0 0 10px #fff, 0 0 15px #ff852e,
+        0 0 20px #ff852e,
+        0 0 30px #ff852e;
+}
+h2 {
+    color: rgb(255, 98, 41);
+    font-size: 100px;
+}
+
+
+h2:hover {
+    text-shadow: 0 0 5px #fff,
+        0 0 10px #fff, 0 0 15px #ff852e,
+        0 0 20px #ff852e,
+        0 0 30px #ff852e;
+}
